@@ -1,8 +1,10 @@
 ## I work on small personal customisation projects, linux bs and game dev
 
 ### Fun stuff I've worked on
-https://github.com/RubenM0/PlayerMovement
 
+* PlayerMovement ➜ C# scripts for the foundations of my player movement in Unity3D projects
+* hyprland-rice ➜ My own custom Hyprland rice (to be released)
+* GPUReader ➜ A Python program for Arch Linux that displays all current graphics cards and suggests drivers to install (to be released)
 
 ### Languages & tools
 
@@ -19,7 +21,19 @@ https://github.com/RubenM0/PlayerMovement
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,python,html,css,js,qt,cpp,linux,hyprland,rider,neovim,vscode&perline=6&theme=dark" />
 
+### Future plans and ideas
 
+* Make games
+* Finish my hyprland rice
+* Make more scripts for Linux
+* Make a game engine
+* Try doing some cool stuff with AI
+
+### Other things
+
+<a href="https://www.youtube.com/@SwizzyIDD">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
 <!--
 **RubenM0/RubenM0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
