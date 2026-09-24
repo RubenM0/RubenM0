@@ -1,4 +1,7 @@
-## I work on small personal customisation projects, linux bs and game dev
+## Oh hi. So... how are you holding up?
+
+## About me
+I code (I think) and like to customise anything I can get my hands on
 
 ### Fun stuff I've worked on
 
