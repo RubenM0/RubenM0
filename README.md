@@ -1,4 +1,10 @@
-## Hi there 👋
+## I work on small customisation projects and game dev
+
+
+### Languages & tools
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,python,html,css,js,qt,cpp,linux,hyprland,rider,neovim,vscode&perline=6&theme=dark" />
+
+
 
 <!--
 **RubenM0/RubenM0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
