@@ -32,6 +32,7 @@
 * Finish my hyprland rice
 * Make more scripts for Linux
 * Make a game engine
+* Learn a graphics API
 * Try doing some cool stuff with AI
 
 ### Other things
