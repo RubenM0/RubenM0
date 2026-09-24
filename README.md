@@ -1,6 +1,6 @@
-## Oh hi. So... how are you holding up?
+### Oh hi. So... how are you holding up?
 
-## About me
+### About me
 I code (I think) and like to customise anything I can get my hands on
 
 ### Fun stuff I've worked on
