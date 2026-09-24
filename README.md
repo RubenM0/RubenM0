@@ -9,6 +9,9 @@
 ### Languages & tools
 
 <p>
+  <img src="https://img.shields.io/badge/UNITY-white?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=csharp&logoColor=black" alt="C#" />
+  <img src="https://img.shields.io/badge/QML-white?style=for-the-badge&logo=qt&logoColor=black" alt="QML" />
   <img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/LINUX-white?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/HYPRLAND-white?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland" />
@@ -19,7 +22,9 @@
   <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black" alt="CSS" />
 </p>
 
+<!--
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,unity,python,html,css,js,qt,cpp,linux,hyprland,rider,neovim,vscode&perline=6&theme=dark" />
+-->
 
 ### Future plans and ideas
 
