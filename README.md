@@ -37,3 +37,6 @@ I code (I think) and like to customise anything I can get my hands on
 * Make a game engine
 * Learn a graphics API
 * Try doing some cool stuff with AI
+
+### Other stuff
+https://swizzyid.itch.io/
