@@ -6,6 +6,7 @@ I code (I think) and like to customise anything I can get my hands on
 ### Fun stuff I've worked on
 
 * PlayerMovement ➜ C# scripts for the foundations of my player movement in Unity3D projects
+* * omarchy-cursor-style-submenu ➜ An Omarchy customisation submenu for your cursor
 * hyprland-rice ➜ My own custom Hyprland rice (to be released)
 * GPUReader ➜ A Python program for Arch Linux that displays all current graphics cards and suggests drivers to install (to be released)
 
